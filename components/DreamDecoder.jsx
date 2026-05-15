@@ -720,7 +720,7 @@ export default function DreamDecoder() {
               <p style={{ fontFamily:"'DM Sans',sans-serif", fontSize:"0.68rem", color:T.textLight, fontWeight:300 }}>Unlimited decoding · All dream types · Beyond This Life readings</p>
             </div>
             <button
-              onClick={()=>window.open('https://buy.stripe.com/fZu9ASgX49Rignz1IHdwc00','_blank')}
+              onClick={()=>https://buy.stripe.com/aFaaEW7mue7yfjvafddwc01,'_blank')}
               onMouseEnter={e=>hoverBtn(e,true)} onMouseLeave={e=>hoverBtn(e,false)}
               style={{ background:T.accentSoft, border:`1px solid ${T.accentBorder}`, color:T.text, padding:"16px", width:"100%", borderRadius:2, cursor:"pointer", fontFamily:"'DM Sans',sans-serif", fontSize:"0.78rem", letterSpacing:"0.15em", textTransform:"uppercase", transition:"all 0.35s ease", fontWeight:300, marginBottom:12 }}
             >Unlock Dream Decoder — £3.99/mo</button>
